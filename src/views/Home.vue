@@ -105,9 +105,15 @@ export default {
 
 <style>
 .home_body {
-  width: 30%;
+  width: 50%;
   margin: 0 auto;
   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+@media (max-width: 768px) {
+  .home_body {
+    width: 90%;
+  }  
 }
 
 .form_input {
