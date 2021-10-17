@@ -11,7 +11,7 @@
 
 [![npm](https://img.shields.io/badge/npm-6.14.11-red.svg)](https://quasar.dev)
 ![Contributios welcome](https://img.shields.io/badge/Contributions-Welcome-green.svg)
-![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)
+![License](https://img.shields.io/badge/License-MIT-purple.svg)
 
 **Not official** tool to help the player to know the time required to the heroe can get full energy. 
 
