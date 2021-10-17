@@ -23,6 +23,7 @@
 
 - [Demo](#demo)
 - [Getting start](#getting-start)
+    - [Formule](#the-formule-used)
 - [Collaborating](#collaborating)
 
 # Demo
